@@ -1,0 +1,67 @@
+
+Java Practical Programs (1 to 18)
+
+1. Basic Java Features:
+Write a Java program to demonstrate basic programming language features of Java.
+
+2. Java Programs for:
+a) Fibonacci Series up to 'n' terms
+b) Prime Number Check
+c) Armstrong Number Check
+d) Reverse of a Number
+e) Palindrome Number Check
+
+3. Type Casting:
+Write a Java program to demonstrate Type Casting.
+
+4. Wrapper Class:
+Write a Java program to demonstrate Wrapper Class.
+
+5. Arrays:
+a) Accept 10 integers and sort using bubble sort.
+b) 2D Array - Addition of two 3x3 matrices.
+c) 2D Array - Multiplication of two 3x3 matrices.
+
+6. String Methods:
+Write a Java program to demonstrate various methods of String class.
+
+7. Constructors:
+Write a Java program to demonstrate Default, Parameterized, and Copy constructors.
+
+8. Inheritance:
+a) Single Inheritance
+b) Multilevel Inheritance
+c) Multiple Inheritance using Interface
+
+9. Abstract Class:
+Write a Java program to demonstrate abstract variable, method, and class.
+
+10. Inner Classes:
+a) Static Inner Class
+b) Non-static Inner Class
+
+11. Thread Programming:
+a) Implement threads using Runnable and Thread class.
+b) Demonstrate suspend(), resume(), stop() methods.
+c) Demonstrate sleep(), wait(), notify(), notifyAll(), yield() methods.
+
+12. Packages:
+Create user-defined packages (at least 2) and access their classes in another program.
+
+13. Exception Handling:
+Write a Java program to demonstrate exception handling mechanism.
+
+14. AWT Input:
+Write a Java program to accept user input using AWT components.
+
+15. Mouse Events in Applet:
+Write a Java applet to demonstrate various mouse event handlers.
+
+16. Keyboard Events in Applet:
+Write a Java applet to demonstrate various keyboard event handlers.
+
+17. GUI with Swing:
+Create a GUI using Swing components and implement event handling.
+
+18. Graphics in Applet:
+Create a Java applet to demonstrate various graphics methods.
